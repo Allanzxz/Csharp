@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+T:\Workspace\Allan\Csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+T:\Workspace\Allan\Csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+T:\Workspace\Allan\Csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+T:\Workspace\Allan\Csharp\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.sourcelink.json
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
