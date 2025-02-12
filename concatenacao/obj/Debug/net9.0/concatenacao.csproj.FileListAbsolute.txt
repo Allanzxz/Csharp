@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\concatenacao\bin\Debug\net9.0\concatenacao.exe
+T:\Workspace\Allan\Csharp\concatenacao\bin\Debug\net9.0\concatenacao.deps.json
+T:\Workspace\Allan\Csharp\concatenacao\bin\Debug\net9.0\concatenacao.runtimeconfig.json
+T:\Workspace\Allan\Csharp\concatenacao\bin\Debug\net9.0\concatenacao.dll
+T:\Workspace\Allan\Csharp\concatenacao\bin\Debug\net9.0\concatenacao.pdb
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.sourcelink.json
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.dll
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\refint\concatenacao.dll
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.pdb
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\concatenacao.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\concatenacao\obj\Debug\net9.0\ref\concatenacao.dll
