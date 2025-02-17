@@ -18,18 +18,13 @@ Console.Write("Digite sua idade: ");
 
 
 
-bool possuiPresencaMinima = true;
-double media = 41.5;
-
-if (!possuiPresencaMinima)
+bool choveu = false ;
+bool estaTarde = false ;
+if (choveu)
 {
-    Console.WriteLine("Reprovado");
+    Console.WriteLine("Vou pedalar outro dia");
 }
-else if(possuiPresencaMinima && media >= 7)
+else if(!choveu && !estaTarde)
 {
-    Console.WriteLine("Aprovado");
-}
-else 
-{
-    Console.WriteLine("Reprovado");
+    Console.WriteLine("Vou pedalar");
 }
