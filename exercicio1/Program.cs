@@ -15,3 +15,21 @@ Console.Write("Digite sua idade: ");
         {
             Console.WriteLine("Entrada não permitida");
         }
+
+
+
+bool possuiPresencaMinima = true;
+double media = 41.5;
+
+if (!possuiPresencaMinima)
+{
+    Console.WriteLine("Reprovado");
+}
+else if(possuiPresencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado");
+}
+else 
+{
+    Console.WriteLine("Reprovado");
+}
