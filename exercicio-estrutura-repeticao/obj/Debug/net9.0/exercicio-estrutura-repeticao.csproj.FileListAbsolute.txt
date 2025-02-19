@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\bin\Debug\net9.0\exercicio-estrutura-repeticao.exe
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\bin\Debug\net9.0\exercicio-estrutura-repeticao.deps.json
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\bin\Debug\net9.0\exercicio-estrutura-repeticao.runtimeconfig.json
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\bin\Debug\net9.0\exercicio-estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\bin\Debug\net9.0\exercicio-estrutura-repeticao.pdb
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.sourcelink.json
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\refint\exercicio-estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.pdb
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\exercicio-estrutura-repeticao.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\exercicio-estrutura-repeticao\obj\Debug\net9.0\ref\exercicio-estrutura-repeticao.dll
