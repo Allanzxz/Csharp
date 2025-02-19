@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.exe
+T:\Workspace\Allan\Csharp\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.deps.json
+T:\Workspace\Allan\Csharp\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.runtimeconfig.json
+T:\Workspace\Allan\Csharp\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.pdb
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.sourcelink.json
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\refint\estrutura-repeticao.dll
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.pdb
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\estrutura-repeticao\obj\Debug\net9.0\ref\estrutura-repeticao.dll
