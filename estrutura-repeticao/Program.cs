@@ -11,3 +11,11 @@ while (contador <= numero)
     contador++;
 }
 Console.WriteLine($"Contador atingiu o número alvo:{contador}");
+
+
+int numero1 = 0;
+
+do{
+    Console.WriteLine($"Número:{numero1}");
+    numero++;
+} while (numero < 10);
