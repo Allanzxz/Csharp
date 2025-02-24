@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\estrutura-dados\bin\Debug\net9.0\estrutura-dados.exe
+T:\Workspace\Allan\Csharp\estrutura-dados\bin\Debug\net9.0\estrutura-dados.deps.json
+T:\Workspace\Allan\Csharp\estrutura-dados\bin\Debug\net9.0\estrutura-dados.runtimeconfig.json
+T:\Workspace\Allan\Csharp\estrutura-dados\bin\Debug\net9.0\estrutura-dados.dll
+T:\Workspace\Allan\Csharp\estrutura-dados\bin\Debug\net9.0\estrutura-dados.pdb
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.sourcelink.json
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.dll
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\refint\estrutura-dados.dll
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.pdb
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\estrutura-dados.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\estrutura-dados\obj\Debug\net9.0\ref\estrutura-dados.dll
