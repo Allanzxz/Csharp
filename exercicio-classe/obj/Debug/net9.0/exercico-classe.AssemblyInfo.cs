@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercico-classe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3a0c35d674b7efa79b9093c38246d3a063b0999")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1ebf03950e2144e9e74282b17c7279f8236d3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercico-classe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercico-classe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
