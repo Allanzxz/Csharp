@@ -4,8 +4,8 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace classes.modelo
-{}
+namespace classes.Modelo
+{
     public class Pessoa
     {
        //Atributos
@@ -21,6 +21,7 @@ namespace classes.modelo
            this.idade = idade;
            this.altura = altura;
            this.peso = peso;
+       }
         //Métodos Andar e Falar
         public void Andar()
         {

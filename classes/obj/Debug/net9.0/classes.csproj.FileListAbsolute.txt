@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.sourcelink.json
+T:\Workspace\Allan\Csharp\classes\bin\Debug\net9.0\classes.exe
+T:\Workspace\Allan\Csharp\classes\bin\Debug\net9.0\classes.deps.json
+T:\Workspace\Allan\Csharp\classes\bin\Debug\net9.0\classes.runtimeconfig.json
+T:\Workspace\Allan\Csharp\classes\bin\Debug\net9.0\classes.dll
+T:\Workspace\Allan\Csharp\classes\bin\Debug\net9.0\classes.pdb
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.dll
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\refint\classes.dll
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.pdb
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\classes.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\classes\obj\Debug\net9.0\ref\classes.dll

@@ -1,0 +1,15 @@
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.AssemblyInfoInputs.cache
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.AssemblyInfo.cs
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.csproj.CoreCompileInputs.cache
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.sourcelink.json
+T:\Workspace\Allan\Csharp\exercicio-classe\bin\Debug\net9.0\exercico-classe.exe
+T:\Workspace\Allan\Csharp\exercicio-classe\bin\Debug\net9.0\exercico-classe.deps.json
+T:\Workspace\Allan\Csharp\exercicio-classe\bin\Debug\net9.0\exercico-classe.runtimeconfig.json
+T:\Workspace\Allan\Csharp\exercicio-classe\bin\Debug\net9.0\exercico-classe.dll
+T:\Workspace\Allan\Csharp\exercicio-classe\bin\Debug\net9.0\exercico-classe.pdb
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.dll
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\refint\exercico-classe.dll
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.pdb
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\exercico-classe.genruntimeconfig.cache
+T:\Workspace\Allan\Csharp\exercicio-classe\obj\Debug\net9.0\ref\exercico-classe.dll
