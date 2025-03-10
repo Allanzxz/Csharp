@@ -27,7 +27,7 @@ namespace exercico_classe.Modelo
         }
         public void Freiar()
         {
-            Console.WriteLine($"{marca} {modelo} de {ano} freiou rapidamente");
+            Console.WriteLine($"{marca} {modelo} de {ano} freiou rapidamente.");
         }
     }
     }
