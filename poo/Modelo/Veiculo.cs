@@ -56,17 +56,19 @@ namespace poo.Modelo
        }
        public void SetVelocidadeAtual(double velocidadeAtual)
        {
-        this.velocidadeAtual = volocidadeAtual;
+        this.velocidadeAtual = velocidadeAtual;
        }
        
         //Métodos Andar e Falar
-        public void Acelerar()
+        public void Acelerar(double incremento)
         {
-            Console.WriteLine($"{marca} {modelo} de {ano} está acelerando.");
+            velocidadeAtual += incremento;
+            Console.WriteLine($"Acelerando... Velocidade atual {velocidadeAtual} Km/h.");
         }
-        public void Freiar()
+        public void Freiar(double decremento)
         {
-            Console.WriteLine($"{marca} {modelo} de {ano} freiou rapidamente.");
+            velocidadeAtual -= decremento;
+            Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} Km/h.");
         }
     }
     }
