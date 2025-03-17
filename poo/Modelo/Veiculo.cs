@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace poo.Modelo
 {
-    public class Veiculo
+    public abstract class Veiculo
     {
             //Atributos
        private string marca;
@@ -65,19 +65,12 @@ namespace poo.Modelo
             velocidadeAtual += incremento;
             Console.WriteLine($"Acelerando... Velocidade atual {velocidadeAtual} Km/h.");
         }
-        public void Freiar(double decremento)
+        public void Frear(double decremento)
         {
             velocidadeAtual += decremento;
-            Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} Km/h.");
+            Console.WriteLine($"Freando... Velocidade atual {velocidadeAtual} Km/h.");
         }
-        public abstract class Veiculo
-        {
-            // atributos
-            // construtor
-            // getters e setters para cada atributo
-            // métodos acelerar e frear
-            // método abstrato ObterDadosDoVeiculo
             public abstract void ObterDadosDoVeiculo();
-        }
+        
     }
     }
