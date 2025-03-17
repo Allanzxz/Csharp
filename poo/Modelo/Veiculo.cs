@@ -1,76 +1,70 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace poo.Modelo
+namespace POO.modelo
 {
-    public abstract class Veiculo
-    {
-            //Atributos
-       private string marca;
-       private string modelo;
-       private int ano;
-       private double velocidadeAtual;
-      
 
-       //Construtor
-       public Veiculo(string marca, string modelo, int ano, double velocidadeAtual)
-       {
-           this.marca = marca;
-           this.modelo = modelo;
-           this.ano = ano;
-           this.velocidadeAtual = velocidadeAtual;
-       }
-       
-       public string GetMarca()
-       {
-        return marca;
-       }
-       public void SetMarca(string marca)
-       {
-        this.marca = marca;
-       }
+public abstract class Veiculos
+{
+ // Atributos
+private string marca;
+private string modelo;
+private int ano;
+protected double velocidadeatual;
 
-       public string GetModelo()
-       {
-        return modelo;
-       }
-       public void SetModelo(string modelo)
-       {
-        this.modelo = modelo;
-       }
+         // Construtor
+public Veiculos(string marca, string modelo, int ano, double velocidadeatual)
+{
+this.marca = marca;
+this.modelo = modelo;
+this.ano = ano;
+this.velocidadeatual= velocidadeatual;
+}
+public string GetMarca()
+{
+    return marca;
+}
+public void SetMarca(string marca)
+{
+    this.marca = marca;
+}
+public string GetModelo()
+{
+    return modelo;
+}
+public void SetModelo(string modelo)
+{
+    this.marca = modelo;
+}
+public int Getano()
+{
+    return ano;
+}
+public void Setano(int ano)
+{
+    this.ano = ano;
+}
+public double Getvelocidadeatual()
+{
+    return velocidadeatual;
+}
+public void Setvelocidadeatual(string marca)
+{
+    this.marca = marca;
+}
 
-       public int GetAno()
-       {
-        return ano;
-       }
-       public void SetAno(int ano)
-       {
-        this.ano = ano;
-       }
+ // Métodos Andar e Falar
+public void acelerar()
+{
+Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está acelerando.");
 
-       public double GetVelocidadeAtual()
-       {
-        return velocidadeAtual;
-       }
-       public void SetVelocidadeAtual(double velocidadeAtual)
-       {
-        this.velocidadeAtual = velocidadeAtual;
-       }
-       
-        //Métodos Andar e Falar
-        public virtual void Acelerar(double incremento)
-        {
-            velocidadeAtual += incremento;
-            Console.WriteLine($"Acelerando... Velocidade atual {velocidadeAtual} Km/h.");
-        }
-        public void Frear(double decremento)
-        {
-            velocidadeAtual += decremento;
-            Console.WriteLine($"Freando... Velocidade atual {velocidadeAtual} Km/h.");
-        }
-            public abstract void ObterDadosDoVeiculo();
-        
-    }
-    }
+}
+public void Freiar(){
+Console.WriteLine($"{marca} {modelo} {ano} {velocidadeatual} está freiando");
+}
+public abstract void ObterDadosDoVeiculo();
+}
+}

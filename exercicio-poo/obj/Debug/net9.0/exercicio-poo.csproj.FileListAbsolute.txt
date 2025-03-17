@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\bin\Debug\net9.0\exercicio-poo.exe
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\bin\Debug\net9.0\exercicio-poo.deps.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\bin\Debug\net9.0\exercicio-poo.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\bin\Debug\net9.0\exercicio-poo.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\bin\Debug\net9.0\exercicio-poo.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\refint\exercicio-poo.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\exercicio-poo.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-poo\obj\Debug\net9.0\ref\exercicio-poo.dll
