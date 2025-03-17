@@ -67,7 +67,7 @@ namespace poo.Modelo
         }
         public void Freiar(double decremento)
         {
-            velocidadeAtual -= decremento;
+            velocidadeAtual += decremento;
             Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} Km/h.");
         }
     }
