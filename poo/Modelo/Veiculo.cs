@@ -70,5 +70,14 @@ namespace poo.Modelo
             velocidadeAtual += decremento;
             Console.WriteLine($"Freiando... Velocidade atual {velocidadeAtual} Km/h.");
         }
+        public abstract class Veiculo
+        {
+            // atributos
+            // construtor
+            // getters e setters para cada atributo
+            // métodos acelerar e frear
+            // método abstrato ObterDadosDoVeiculo
+            public abstract void ObterDadosDoVeiculo();
+        }
     }
     }
