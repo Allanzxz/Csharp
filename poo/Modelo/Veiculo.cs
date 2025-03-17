@@ -60,7 +60,7 @@ namespace poo.Modelo
        }
        
         //Métodos Andar e Falar
-        public void Acelerar(double incremento)
+        public virtual void Acelerar(double incremento)
         {
             velocidadeAtual += incremento;
             Console.WriteLine($"Acelerando... Velocidade atual {velocidadeAtual} Km/h.");

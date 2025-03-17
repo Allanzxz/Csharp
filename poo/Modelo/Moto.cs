@@ -37,5 +37,10 @@ namespace poo.Modelo
         {
             Console.WriteLine("Empinando a moto!");
         }
+        public override void Acelerar(double incremento)
+        {
+           velocidadeAtual += incremento
+           Console.WriteLine($"A moto acelerou e atingiu {velocidadeAtual}.")
+        }
     }
 }
