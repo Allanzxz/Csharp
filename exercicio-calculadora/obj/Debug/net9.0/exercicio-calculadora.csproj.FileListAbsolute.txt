@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.exe
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.deps.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\bin\Debug\net9.0\exercicio-calculadora.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\refint\exercicio-calculadora.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\exercicio-calculadora.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-calculadora\obj\Debug\net9.0\ref\exercicio-calculadora.dll
