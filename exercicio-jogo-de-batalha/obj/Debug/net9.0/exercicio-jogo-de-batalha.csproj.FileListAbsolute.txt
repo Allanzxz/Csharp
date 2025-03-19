@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\bin\Debug\net9.0\exercicio-jogo-de-batalha.exe
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\bin\Debug\net9.0\exercicio-jogo-de-batalha.deps.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\bin\Debug\net9.0\exercicio-jogo-de-batalha.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\bin\Debug\net9.0\exercicio-jogo-de-batalha.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\bin\Debug\net9.0\exercicio-jogo-de-batalha.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\refint\exercicio-jogo-de-batalha.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\exercicio-jogo-de-batalha.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-jogo-de-batalha\obj\Debug\net9.0\ref\exercicio-jogo-de-batalha.dll
