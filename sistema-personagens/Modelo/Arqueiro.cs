@@ -8,31 +8,28 @@ namespace sistema_personagens.Modelo
 
 class Arqueiro : Personagem
 {
-    public int Flechas { get; set; }
+    private int flechas;
 
-    public Arqueiro(string nome, int vida, int forca, int agilidade, int flechas)
-        : base(nome, vida, forca, agilidade)
+    public Arqueiro(string nome) : base(nome, 90, 20, 10)
     {
-        Flechas = flechas;
+        this.flechas = 30;
     }
 
-    public override void Atacar()
+    // Getters e Setters primeiro
+    public int GetFlechas() { return flechas; }
+    public void SetFlechas(int flechas) { this.flechas = flechas; }
+
+    // Implementação dos métodos abstratos
+    public override void HabilidadeEspecial()
     {
-        if (Flechas > 0)
-        {
-            Console.WriteLine($"{Nome} dispara uma flecha causando {Forca} de dano!");
-            Flechas--;
-        }
-        else
-        {
-            Console.WriteLine($"{Nome} está sem flechas!");
-        }
+        Console.WriteLine($"{nome} dispara uma chuva de flechas!");
     }
 
-    public override void Defender()
+    public override void AtaqueEspecial()
     {
-        Console.WriteLine($"{Nome} se esquiva rapidamente!");
+        Console.WriteLine($"{nome} dispara uma flecha perfurante!");
     }
 }
 
 }
+

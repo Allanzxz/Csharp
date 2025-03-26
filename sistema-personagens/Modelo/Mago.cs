@@ -5,25 +5,28 @@ using System.Threading.Tasks;
 
 namespace sistema_personagens.Modelo
 {
-
 class Mago : Personagem
 {
-    public int Mana { get; set; }
+    private int mana;
 
-    public Mago(string nome, int vida, int forca, int agilidade, int mana)
-        : base(nome, vida, forca, agilidade)
+    public Mago(string nome) : base(nome, 80, 30, 5)
     {
-        Mana = mana;
+        this.mana = 100;
     }
 
-    public override void Atacar()
+    // Getters e Setters primeiro
+    public int GetMana() { return mana; }
+    public void SetMana(int mana) { this.mana = mana; }
+
+    // Implementação dos métodos abstratos
+    public override void HabilidadeEspecial()
     {
-        Console.WriteLine($"{Nome} lança uma bola de fogo causando {Forca * 2} de dano!");
+        Console.WriteLine($"{nome} conjura um escudo mágico!");
     }
 
-    public override void Defender()
+    public override void AtaqueEspecial()
     {
-        Console.WriteLine($"{Nome} cria uma barreira mágica para se defender!");
+        Console.WriteLine($"{nome} lança uma bola de fogo poderosa!");
     }
 }
 

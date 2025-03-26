@@ -5,26 +5,30 @@ using System.Threading.Tasks;
 
 namespace sistema_personagens.Modelo
 {
-
 class Guerreiro : Personagem
 {
-    public string Arma { get; set; }
+    private string arma;
 
-    public Guerreiro(string nome, int vida, int forca, int agilidade, string arma)
-        : base(nome, vida, forca, agilidade)
+    public Guerreiro(string nome) : base(nome, 120, 25, 15)
     {
-        Arma = arma;
+        this.arma = "Espada";
     }
 
-    public override void Atacar()
+    // Getters e Setters primeiro
+    public string GetArma() { return arma; }
+    public void SetArma(string arma) { this.arma = arma; }
+
+    // Implementação dos métodos abstratos
+    public override void HabilidadeEspecial()
     {
-        Console.WriteLine($"{Nome} ataca com a arma {Arma} causando {Forca} de dano!");
+        Console.WriteLine($"{nome} usa um golpe giratório com sua {arma}!");
     }
 
-    public override void Defender()
+    public override void AtaqueEspecial()
     {
-        Console.WriteLine($"{Nome} levanta o escudo e reduz o dano!");
+        Console.WriteLine($"{nome} desfere um ataque devastador!");
     }
 }
 
 }
+
