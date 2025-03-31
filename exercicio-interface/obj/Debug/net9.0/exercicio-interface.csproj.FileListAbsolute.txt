@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.exe
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.deps.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\bin\Debug\net9.0\exercicio-interface.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\refint\exercicio-interface.dll
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.pdb
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\exercicio-interface.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\Csharp\exercicio-interface\obj\Debug\net9.0\ref\exercicio-interface.dll
